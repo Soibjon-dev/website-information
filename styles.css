@@ -1,0 +1,12 @@
+*{
+    border-style: solid;
+}
+
+
+h1{
+    color: darkblue;
+    display: block;
+}
+p{
+    color:red;
+}
